@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BetaFloof
-- 👀 I’m interested in C#, Python, Low level programming in general, Networking and Security
-- 🌱 I’m currently learning a lot of networking things and improving my skills
-- ✨ Current Projects: [Not on GitHub yet]
+- 👀 I’m interested in C#, Python, Low level programming, Networking and Security
+- 🌱 I’m currently learning a lot of networking things and building my infrastructure
+- ✨ Current Projects: rpipico programming, multithreading pifs, maybe pifs using Cuda or Bellard's formula
 - 📫 How to reach me:
   - [Email](mailto:betafloof@gmail.com)
   - [Twitter](https://twitter.com/BetaFloof_)
