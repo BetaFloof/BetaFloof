@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BetaFloof
-- 👀 I’m interested in C#, Python, Low level programming, Networking and Security
+- 👀 I’m interested in C, Python, Low level programming, Networking and Security
 - 🌱 I’m currently learning a lot of networking things and building my infrastructure
 - ✨ Current Projects: [floof.ch](https://floof.ch), rpipico programming, multithreading pifs, maybe pifs using Cuda or Bellard's formula
 - 📫 How to reach me:
