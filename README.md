@@ -2,8 +2,8 @@
 I'm a furry sysadmin from switzerland interested in everyting regarding Servers, Networking, Automation and Security.
 
 - Private cloud maintainer and datacenter goblin
-- Linux, Python and Ansible maniac
-
+- Casual Python wizard
+- Linux and Ansible maniac
 
 Sometimes I dabble in C and Low Level Programming but I'm far from knowing what I'm actually doing.
 
