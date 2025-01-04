@@ -27,9 +27,10 @@ Will yoink your hardware :3
 - Microcontrollers and electronics generally
 
 # ✨ Current Projects
+- Furry stuff :3
+- [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) w/ [TimonW-Dev](https://github.com/TimonW-Dev) (Lightweight PostgreSQL driver for Micropython)
+- Raspberry Pi Pico programming
 - LoRaWAN experiments
-- rp2040 programming
-- [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) w/ TimonW-Dev (Lightweight PostgreSQL driver for Micropython)
 
 # 📫 How to reach me
-  - [Twitter](https://twitter.com/BetaFloof_)
+- [Twitter](https://twitter.com/BetaFloof_)
