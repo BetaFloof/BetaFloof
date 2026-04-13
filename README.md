@@ -3,7 +3,6 @@ I'm a furry sysadmin from switzerland interested in everyting regarding Servers,
 
 - Private cloud maintainer and datacenter goblin
 - Casual Python wizard
-- Linux and Ansible maniac
 
 Sometimes I dabble in C and Low Level Programming but I'm far from knowing what I'm actually doing.
 
@@ -11,7 +10,7 @@ Glad to team up for software projects or networking shinanigans 👀
 
 Will yoink your hardware :3
 
-# 🔧 Languages & Tech
+# 🔧 Tech & Languages
 - Linux
 - Docker
 - Ansible
@@ -19,18 +18,18 @@ Will yoink your hardware :3
 - C#
 - C/C++ (a tiny bit)
 - Cloudflare
-- HPE
-- Fortinet
-- Cisco (eww)
-- VMware ESXI
 - Proxmox
+- NetApp
+- HPE
+- Cisco (eww)
+- Fortinet
+- VMware ESXI
 - Microcontrollers and electronics generally
 
 # ✨ Current Projects
 - Furry stuff :3
 - [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) w/ [TimonW-Dev](https://github.com/TimonW-Dev) (Lightweight PostgreSQL driver for Micropython)
-- Raspberry Pi Pico programming
-- LoRaWAN experiments
+- LoRa experiments
 
 # 📫 How to reach me
 - [Twitter](https://twitter.com/BetaFloof_)
