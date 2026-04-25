@@ -2,7 +2,7 @@
 I'm a furry sysadmin from switzerland interested in everyting regarding Servers, Networking, Automation and Security.
 
 - Private cloud maintainer and datacenter goblin
-- Casual Python wizard
+- Casual Python wizard :3
 
 Sometimes I dabble in C and Low Level Programming but I'm far from knowing what I'm actually doing.
 
@@ -32,4 +32,5 @@ Will yoink your hardware :3
 - LoRa experiments
 
 # 📫 How to reach me
+- Matrix (@betafloof:floof.ch)
 - [Twitter](https://twitter.com/BetaFloof_)
