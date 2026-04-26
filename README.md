@@ -32,5 +32,5 @@ Will yoink your hardware :3
 - LoRa experiments
 
 # 📫 How to reach me
-- Matrix (@betafloof:floof.ch)
+- [Matrix](https://matrix.to/#/@betafloof:floof.ch)
 - [Twitter](https://twitter.com/BetaFloof_)
